@@ -59,6 +59,55 @@ task understanding and fine-grained planning agent
 
 The reason is straightforward: monolithic VLA models matter, but real robots also need interpretable planning, executable constraints, low-latency control, failure recovery, and on-device autonomy.
 
+### Roadmap Tree
+
+<p align="center">
+  <img src="figs/embodied-ai-taxonomy.svg" alt="Taxonomy of embodied AI papers across VLN, VLA, WAM, planning, embodiment, and deployment." width="100%">
+</p>
+
+### Trend Notes
+
+| Direction | Trend |
+| --- | --- |
+| VLN | VLN is moving from discrete graph navigation toward continuous, memory-backed, physically executable, open-world navigation, while on-device variants are still early. |
+| VLA | VLA growth is led by generalist policies and diffusion/flow action generation, with action representation, 3D grounding, online tuning, and safety becoming the practical bottlenecks. |
+| WAM | WAM is emerging as an imagination and verification layer between planning and controllers, with cascaded and video/latent models ahead of fully joint world-action modeling. |
+| Planning | Agentic planning is moving from instruction decomposition toward memory, failure monitoring, executable constraints, and self-improving loops. |
+| Embodiment | Embodiment expansion tests whether policies survive new bodies, contacts, and coordination demands, with humanoid and dexterous-hand work leading the volume. |
+| Deployment | Deployment work is led by benchmark/data credibility, efficiency, and sim2real transfer, with real-time execution and safety evaluation as smaller but necessary readiness checks. |
+
+| Direction | Subdirection | Trend |
+| --- | --- | --- |
+| VLN | Continuous VLN | Continuous observations, multimodal goals, and online adaptation are replacing the clean discrete-graph assumption. |
+| VLN | Map Memory | Semantic maps, topological memory, 3D memory, retrieval, and caching are becoming the navigation substrate. |
+| VLN | Physically Executable Navigation | Navigation research is adding body constraints, dynamic scenes, and safety decoding so plans can be executed. |
+| VLN | Urban / Open-world Navigation | The setting is expanding toward streets, crowds, implicit human needs, lifelong navigation, and open-world exploration. |
+| VLN | Low-cost / On-device Navigation | The deployment track compresses navigation into smaller memories, cheaper data, and on-device inference. |
+| VLA | generalist VLA | Generalist policies consolidate many tasks and datasets into reusable robot foundation policies. |
+| VLA | action representation | Action tokens, waypoints, constraints, and motion primitives bridge language/image understanding with executable control. |
+| VLA | diffusion/flow policy | Diffusion and flow models are becoming a major action-generation route for robust manipulation. |
+| VLA | 3D grounding | Object-centric geometry, spatial localization, and affordance priors are moving VLA from pixels toward physical scenes. |
+| VLA | online/RL fine-tuning | Post-pretraining adaptation uses RL, online feedback, and test-time optimization to close execution gaps. |
+| VLA | Safety and Robustness | Robustness work is shifting from benchmark accuracy to attacks, uncertainty, unsafe actions, and physical failure modes. |
+| WAM | cascaded WAM | Cascaded systems imagine or predict first, then act, making WAM easier to attach to existing planners and controllers. |
+| WAM | joint WAM | Joint WAM is small but important because it tries to model vision, state, and action in one coupled system. |
+| WAM | video/latent world model | Video and latent prediction are the main path for future-state imagination, reward shaping, and interactive simulation. |
+| WAM | world model for VLA | World models are being used to improve VLA generalization, action selection, and failure recovery. |
+| Planning | Task Decomposition | Planners translate high-level language into subgoals, programs, skills, or executable task graphs. |
+| Planning | memory | Persistent scene, task, and personalization memory supports long-horizon interaction beyond a single episode. |
+| Planning | failure monitor | Failure monitors make embodied agents detect, explain, and recover from execution errors instead of assuming success. |
+| Planning | constraint / affordance planning | Constraints, affordances, PDDL-like structure, and code policies make high-level plans physically executable. |
+| Planning | self-improving planning | Feedback, RL, reflection, and experience revision are turning planning into an iterative improvement loop. |
+| Embodiment | humanoid | Humanoid work stresses whole-body control, mobile manipulation, sim2real transfer, and generalization across full-body skills. |
+| Embodiment | bimanual | Bimanual research focuses on coordinated dual-arm manipulation and longer-horizon interaction. |
+| Embodiment | dexterous hand | Dexterous-hand work expands grasping and manipulation into high-DOF action spaces and transfer-heavy settings. |
+| Embodiment | tactile/contact-rich | Tactile and contact-rich research brings force, touch, and fine-grained feedback into manipulation policies. |
+| Deployment | quantization/cache/tokenization | Efficiency work compresses models and action representations through quantization, caching, and tokenization. |
+| Deployment | real-time execution | Real-time execution focuses on latency-aware control and edge deployment constraints. |
+| Deployment | benchmark/dataset | Benchmarks and datasets define coverage, credibility, and whether progress is measurable across robots and tasks. |
+| Deployment | sim2real | Sim2real work bridges generated/simulated assets, dynamics, and policies into physical robot execution. |
+| Deployment | safety evaluation | Safety evaluation builds tests for physical risk, robustness, and alignment under embodied interaction. |
+
 ## Direction Overview
 
 <table>
@@ -89,7 +138,7 @@ The reason is straightforward: monolithic VLA models matter, but real robots als
 <tr>
 <td nowrap><code>WAM</code></td>
 <td nowrap>WAM / World Models</td>
-<td nowrap>cascaded WAM, joint WAM, video/latent world model, world model for VLA, world model evaluation</td>
+<td nowrap>cascaded WAM, joint WAM, video/latent world model, world model for VLA</td>
 <td nowrap>64</td>
 <td nowrap>WAM combines future world-state prediction with action generation and fits naturally between agent planning and low-level control. Its value is not replacing every controller, but providing an intermediate layer for imagination, verification, and recovery.</td>
 </tr>
@@ -103,7 +152,7 @@ The reason is straightforward: monolithic VLA models matter, but real robots als
 <tr>
 <td nowrap><code>Embodiment</code></td>
 <td nowrap>Embodiment Expansion / Dexterous Manipulation</td>
-<td nowrap>humanoid, bimanual, dexterous hand, tactile/contact-rich, grasping</td>
+<td nowrap>humanoid, bimanual, dexterous hand, tactile/contact-rich</td>
 <td nowrap>89</td>
 <td nowrap>Embodiment expansion determines whether embodied AI can move beyond single-arm systems toward humanoids, bimanual robots, dexterous hands, and tactile/contact-rich tasks. These papers show how action spaces, sensing, and control objectives become more complex as the body changes.</td>
 </tr>
@@ -5288,7 +5337,7 @@ Total: 7 papers.
 
 WAM combines future world-state prediction with action generation and fits naturally between agent planning and low-level control. Its value is not replacing every controller, but providing an intermediate layer for imagination, verification, and recovery.
 
-Subdirections: cascaded WAM, joint WAM, video/latent world model, world model for VLA, and world model evaluation.
+Subdirections: cascaded WAM, joint WAM, video/latent world model, and world model for VLA.
 
 Total: 64 papers.
 
@@ -8065,7 +8114,7 @@ Total: 32 papers.
 
 Embodiment expansion determines whether embodied AI can move beyond single-arm systems toward humanoids, bimanual robots, dexterous hands, and tactile/contact-rich tasks. These papers show how action spaces, sensing, and control objectives become more complex as the body changes.
 
-Subdirections: humanoid, bimanual, dexterous hand, tactile/contact-rich, and grasping.
+Subdirections: humanoid, bimanual, dexterous hand, and tactile/contact-rich.
 
 Total: 89 papers.
 

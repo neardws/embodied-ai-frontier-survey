@@ -1,0 +1,182 @@
+<svg width="1680" height="980" viewBox="0 0 1680 980" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Taxonomy of Embodied AI Papers</title>
+  <desc id="desc">A six-branch roadmap tree for 646 embodied AI papers across VLN, VLA, WAM, planning, embodiment, and deployment.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .root { fill: #111827; }
+      .root-text { fill: #ffffff; font-family: sans-serif; font-size: 30px; font-weight: 700; }
+      .root-sub { fill: #cbd5e1; font-family: sans-serif; font-size: 16px; font-weight: 500; }
+      .bus { stroke: #94a3b8; stroke-width: 3; fill: none; }
+      .branch { stroke-width: 4; fill: none; stroke-linecap: round; }
+      .card { fill: #ffffff; stroke-width: 2; rx: 18; }
+      .head { fill: #ffffff; font-family: sans-serif; font-size: 20px; font-weight: 700; }
+      .count { fill: #ffffff; font-family: sans-serif; font-size: 14px; font-weight: 600; opacity: 0.9; }
+      .pill { fill: #ffffff; stroke: #cbd5e1; stroke-width: 1.4; rx: 12; }
+      .pill-text { fill: #1f2937; font-family: sans-serif; font-size: 15px; font-weight: 600; }
+      .pill-count { fill: #64748b; font-family: sans-serif; font-size: 13px; font-weight: 600; }
+      .note { fill: #64748b; font-family: sans-serif; font-size: 13px; font-weight: 500; }
+    </style>
+  </defs>
+  <rect class="bg" width="1680" height="980"/>
+  <rect class="root" x="590" y="36" width="500" height="94" rx="24"/>
+  <text class="root-text" x="840" y="80" text-anchor="middle">Embodied AI Papers</text>
+  <text class="root-sub" x="840" y="110" text-anchor="middle">646 papers · 6 directions · 29 subdirections</text>
+  <path class="bus" d="M840 130 V176 H1520"/>
+  <path class="bus" d="M840 176 H160"/>
+  <path class="branch" stroke="#2563eb" d="M160 176 V218"/>
+  <path class="branch" stroke="#dc2626" d="M430 176 V218"/>
+  <path class="branch" stroke="#7c3aed" d="M700 176 V218"/>
+  <path class="branch" stroke="#059669" d="M970 176 V218"/>
+  <path class="branch" stroke="#ea580c" d="M1240 176 V218"/>
+  <path class="branch" stroke="#0f766e" d="M1520 176 V218"/>
+
+  <g transform="translate(40 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#2563eb"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#2563eb"/>
+    <text class="head" x="120" y="35" text-anchor="middle">VLN</text>
+    <text class="count" x="120" y="62" text-anchor="middle">Large-scale navigation · 87</text>
+    <rect class="pill" x="18" y="112" width="204" height="64"/>
+    <text class="pill-text" x="32" y="140">Continuous VLN</text>
+    <text class="pill-count" x="32" y="162">35 papers</text>
+    <rect class="pill" x="18" y="194" width="204" height="64"/>
+    <text class="pill-text" x="32" y="222">Map Memory</text>
+    <text class="pill-count" x="32" y="244">22 papers</text>
+    <rect class="pill" x="18" y="276" width="204" height="72"/>
+    <text class="pill-text" x="32" y="304">Physically Executable</text>
+    <text class="pill-text" x="32" y="326">Navigation</text>
+    <text class="pill-count" x="32" y="342">7 papers</text>
+    <rect class="pill" x="18" y="366" width="204" height="72"/>
+    <text class="pill-text" x="32" y="394">Urban / Open-world</text>
+    <text class="pill-text" x="32" y="416">Navigation</text>
+    <text class="pill-count" x="32" y="432">20 papers</text>
+    <rect class="pill" x="18" y="456" width="204" height="72"/>
+    <text class="pill-text" x="32" y="484">Low-cost / On-device</text>
+    <text class="pill-text" x="32" y="506">Navigation</text>
+    <text class="pill-count" x="32" y="522">3 papers</text>
+    <text class="note" x="120" y="594" text-anchor="middle">From graph navigation to</text>
+    <text class="note" x="120" y="616" text-anchor="middle">continuous, embodied autonomy.</text>
+  </g>
+
+  <g transform="translate(310 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#dc2626"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#dc2626"/>
+    <text class="head" x="120" y="35" text-anchor="middle">VLA</text>
+    <text class="count" x="120" y="62" text-anchor="middle">Manipulation policies · 213</text>
+    <rect class="pill" x="18" y="112" width="204" height="58"/>
+    <text class="pill-text" x="32" y="140">Generalist VLA</text>
+    <text class="pill-count" x="32" y="158">70 papers</text>
+    <rect class="pill" x="18" y="186" width="204" height="58"/>
+    <text class="pill-text" x="32" y="214">Action Representation</text>
+    <text class="pill-count" x="32" y="232">21 papers</text>
+    <rect class="pill" x="18" y="260" width="204" height="58"/>
+    <text class="pill-text" x="32" y="288">Diffusion / Flow Policy</text>
+    <text class="pill-count" x="32" y="306">68 papers</text>
+    <rect class="pill" x="18" y="334" width="204" height="58"/>
+    <text class="pill-text" x="32" y="362">3D Grounding</text>
+    <text class="pill-count" x="32" y="380">31 papers</text>
+    <rect class="pill" x="18" y="408" width="204" height="58"/>
+    <text class="pill-text" x="32" y="436">Online / RL Fine-tuning</text>
+    <text class="pill-count" x="32" y="454">16 papers</text>
+    <rect class="pill" x="18" y="482" width="204" height="58"/>
+    <text class="pill-text" x="32" y="510">Safety / Robustness</text>
+    <text class="pill-count" x="32" y="528">7 papers</text>
+    <text class="note" x="120" y="594" text-anchor="middle">Generalist policies meet</text>
+    <text class="note" x="120" y="616" text-anchor="middle">action and grounding bottlenecks.</text>
+  </g>
+
+  <g transform="translate(580 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#7c3aed"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#7c3aed"/>
+    <text class="head" x="120" y="35" text-anchor="middle">WAM</text>
+    <text class="count" x="120" y="62" text-anchor="middle">World models · 64</text>
+    <rect class="pill" x="18" y="112" width="204" height="64"/>
+    <text class="pill-text" x="32" y="140">Cascaded WAM</text>
+    <text class="pill-count" x="32" y="162">24 papers</text>
+    <rect class="pill" x="18" y="194" width="204" height="64"/>
+    <text class="pill-text" x="32" y="222">Joint WAM</text>
+    <text class="pill-count" x="32" y="244">3 papers</text>
+    <rect class="pill" x="18" y="276" width="204" height="72"/>
+    <text class="pill-text" x="32" y="304">Video / Latent</text>
+    <text class="pill-text" x="32" y="326">World Model</text>
+    <text class="pill-count" x="32" y="342">27 papers</text>
+    <rect class="pill" x="18" y="366" width="204" height="64"/>
+    <text class="pill-text" x="32" y="394">World Model for VLA</text>
+    <text class="pill-count" x="32" y="416">10 papers</text>
+    <text class="note" x="120" y="594" text-anchor="middle">Imagination layers move</text>
+    <text class="note" x="120" y="616" text-anchor="middle">between planning and control.</text>
+  </g>
+
+  <g transform="translate(850 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#059669"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#059669"/>
+    <text class="head" x="120" y="35" text-anchor="middle">Planning</text>
+    <text class="count" x="120" y="62" text-anchor="middle">Reasoning and planning · 98</text>
+    <rect class="pill" x="18" y="112" width="204" height="64"/>
+    <text class="pill-text" x="32" y="140">Task Decomposition</text>
+    <text class="pill-count" x="32" y="162">36 papers</text>
+    <rect class="pill" x="18" y="194" width="204" height="64"/>
+    <text class="pill-text" x="32" y="222">Memory</text>
+    <text class="pill-count" x="32" y="244">11 papers</text>
+    <rect class="pill" x="18" y="276" width="204" height="64"/>
+    <text class="pill-text" x="32" y="304">Failure Monitor</text>
+    <text class="pill-count" x="32" y="326">9 papers</text>
+    <rect class="pill" x="18" y="358" width="204" height="72"/>
+    <text class="pill-text" x="32" y="386">Constraint / Affordance</text>
+    <text class="pill-text" x="32" y="408">Planning</text>
+    <text class="pill-count" x="32" y="424">10 papers</text>
+    <rect class="pill" x="18" y="448" width="204" height="72"/>
+    <text class="pill-text" x="32" y="476">Self-improving</text>
+    <text class="pill-text" x="32" y="498">Planning</text>
+    <text class="pill-count" x="32" y="514">32 papers</text>
+    <text class="note" x="120" y="594" text-anchor="middle">Agents decompose tasks,</text>
+    <text class="note" x="120" y="616" text-anchor="middle">remember, recover, and improve.</text>
+  </g>
+
+  <g transform="translate(1120 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#ea580c"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#ea580c"/>
+    <text class="head" x="120" y="35" text-anchor="middle">Embodiment</text>
+    <text class="count" x="120" y="62" text-anchor="middle">Dexterous systems · 89</text>
+    <rect class="pill" x="18" y="112" width="204" height="64"/>
+    <text class="pill-text" x="32" y="140">Humanoid</text>
+    <text class="pill-count" x="32" y="162">32 papers</text>
+    <rect class="pill" x="18" y="194" width="204" height="64"/>
+    <text class="pill-text" x="32" y="222">Bimanual</text>
+    <text class="pill-count" x="32" y="244">13 papers</text>
+    <rect class="pill" x="18" y="276" width="204" height="64"/>
+    <text class="pill-text" x="32" y="304">Dexterous Hand</text>
+    <text class="pill-count" x="32" y="326">31 papers</text>
+    <rect class="pill" x="18" y="358" width="204" height="72"/>
+    <text class="pill-text" x="32" y="386">Tactile /</text>
+    <text class="pill-text" x="32" y="408">Contact-rich</text>
+    <text class="pill-count" x="32" y="424">13 papers</text>
+    <text class="note" x="120" y="594" text-anchor="middle">The body changes action,</text>
+    <text class="note" x="120" y="616" text-anchor="middle">sensing, and control needs.</text>
+  </g>
+
+  <g transform="translate(1390 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#0f766e"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#0f766e"/>
+    <text class="head" x="120" y="35" text-anchor="middle">Deployment</text>
+    <text class="count" x="120" y="62" text-anchor="middle">Evaluation and data · 95</text>
+    <rect class="pill" x="18" y="112" width="204" height="72"/>
+    <text class="pill-text" x="32" y="140">Quantization / Cache</text>
+    <text class="pill-text" x="32" y="162">/ Tokenization</text>
+    <text class="pill-count" x="32" y="178">21 papers</text>
+    <rect class="pill" x="18" y="202" width="204" height="64"/>
+    <text class="pill-text" x="32" y="230">Real-time Execution</text>
+    <text class="pill-count" x="32" y="252">6 papers</text>
+    <rect class="pill" x="18" y="284" width="204" height="64"/>
+    <text class="pill-text" x="32" y="312">Benchmark / Dataset</text>
+    <text class="pill-count" x="32" y="334">39 papers</text>
+    <rect class="pill" x="18" y="366" width="204" height="64"/>
+    <text class="pill-text" x="32" y="394">Sim2real</text>
+    <text class="pill-count" x="32" y="416">17 papers</text>
+    <rect class="pill" x="18" y="448" width="204" height="64"/>
+    <text class="pill-text" x="32" y="476">Safety Evaluation</text>
+    <text class="pill-count" x="32" y="498">12 papers</text>
+    <text class="note" x="120" y="594" text-anchor="middle">Readiness depends on data,</text>
+    <text class="note" x="120" y="616" text-anchor="middle">efficiency, transfer, and safety.</text>
+  </g>
+</svg>

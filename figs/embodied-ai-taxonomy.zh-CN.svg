@@ -1,0 +1,179 @@
+<svg width="1680" height="980" viewBox="0 0 1680 980" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">具身智能论文路线树</title>
+  <desc id="desc">围绕 VLN、VLA、WAM、推理规划、本体扩展和部署评测整理的 646 篇具身智能论文分类树。</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .root { fill: #111827; }
+      .root-text { fill: #ffffff; font-family: Hiragino Sans GB; font-size: 30px; font-weight: 700; }
+      .root-sub { fill: #cbd5e1; font-family: Hiragino Sans GB; font-size: 16px; font-weight: 500; }
+      .bus { stroke: #94a3b8; stroke-width: 3; fill: none; }
+      .branch { stroke-width: 4; fill: none; stroke-linecap: round; }
+      .card { fill: #ffffff; stroke-width: 2; rx: 18; }
+      .head { fill: #ffffff; font-family: Hiragino Sans GB; font-size: 20px; font-weight: 700; }
+      .count { fill: #ffffff; font-family: Hiragino Sans GB; font-size: 14px; font-weight: 600; opacity: 0.9; }
+      .pill { fill: #ffffff; stroke: #cbd5e1; stroke-width: 1.4; rx: 12; }
+      .pill-text { fill: #1f2937; font-family: Hiragino Sans GB; font-size: 15px; font-weight: 600; }
+      .pill-count { fill: #64748b; font-family: Hiragino Sans GB; font-size: 13px; font-weight: 600; }
+      .note { fill: #64748b; font-family: Hiragino Sans GB; font-size: 13px; font-weight: 500; }
+    </style>
+  </defs>
+  <rect class="bg" width="1680" height="980"/>
+  <rect class="root" x="590" y="36" width="500" height="94" rx="24"/>
+  <text class="root-text" x="840" y="80" text-anchor="middle">具身智能论文地图</text>
+  <text class="root-sub" x="840" y="110" text-anchor="middle">646 篇论文 · 6 个大方向 · 29 个小方向</text>
+  <path class="bus" d="M840 130 V176 H1520"/>
+  <path class="bus" d="M840 176 H160"/>
+  <path class="branch" stroke="#2563eb" d="M160 176 V218"/>
+  <path class="branch" stroke="#dc2626" d="M430 176 V218"/>
+  <path class="branch" stroke="#7c3aed" d="M700 176 V218"/>
+  <path class="branch" stroke="#059669" d="M970 176 V218"/>
+  <path class="branch" stroke="#ea580c" d="M1240 176 V218"/>
+  <path class="branch" stroke="#0f766e" d="M1520 176 V218"/>
+
+  <g transform="translate(40 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#2563eb"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#2563eb"/>
+    <text class="head" x="120" y="35" text-anchor="middle">VLN</text>
+    <text class="count" x="120" y="62" text-anchor="middle">大范围导航 · 87</text>
+    <rect class="pill" x="18" y="112" width="204" height="64"/>
+    <text class="pill-text" x="32" y="140">连续环境 VLN</text>
+    <text class="pill-count" x="32" y="162">35 篇</text>
+    <rect class="pill" x="18" y="194" width="204" height="64"/>
+    <text class="pill-text" x="32" y="222">地图记忆</text>
+    <text class="pill-count" x="32" y="244">22 篇</text>
+    <rect class="pill" x="18" y="276" width="204" height="72"/>
+    <text class="pill-text" x="32" y="304">物理可执行导航</text>
+    <text class="pill-count" x="32" y="326">7 篇</text>
+    <rect class="pill" x="18" y="366" width="204" height="72"/>
+    <text class="pill-text" x="32" y="394">城市 / 开放环境</text>
+    <text class="pill-text" x="32" y="416">导航</text>
+    <text class="pill-count" x="32" y="432">20 篇</text>
+    <rect class="pill" x="18" y="456" width="204" height="72"/>
+    <text class="pill-text" x="32" y="484">低成本 / 端侧导航</text>
+    <text class="pill-count" x="32" y="506">3 篇</text>
+    <text class="note" x="120" y="594" text-anchor="middle">从离散图导航走向</text>
+    <text class="note" x="120" y="616" text-anchor="middle">连续环境和真实可执行。</text>
+  </g>
+
+  <g transform="translate(310 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#dc2626"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#dc2626"/>
+    <text class="head" x="120" y="35" text-anchor="middle">VLA</text>
+    <text class="count" x="120" y="62" text-anchor="middle">操作策略 · 213</text>
+    <rect class="pill" x="18" y="112" width="204" height="58"/>
+    <text class="pill-text" x="32" y="140">generalist VLA</text>
+    <text class="pill-count" x="32" y="158">70 篇</text>
+    <rect class="pill" x="18" y="186" width="204" height="58"/>
+    <text class="pill-text" x="32" y="214">action representation</text>
+    <text class="pill-count" x="32" y="232">21 篇</text>
+    <rect class="pill" x="18" y="260" width="204" height="58"/>
+    <text class="pill-text" x="32" y="288">diffusion / flow policy</text>
+    <text class="pill-count" x="32" y="306">68 篇</text>
+    <rect class="pill" x="18" y="334" width="204" height="58"/>
+    <text class="pill-text" x="32" y="362">3D grounding</text>
+    <text class="pill-count" x="32" y="380">31 篇</text>
+    <rect class="pill" x="18" y="408" width="204" height="58"/>
+    <text class="pill-text" x="32" y="436">online / RL fine-tuning</text>
+    <text class="pill-count" x="32" y="454">16 篇</text>
+    <rect class="pill" x="18" y="482" width="204" height="58"/>
+    <text class="pill-text" x="32" y="510">安全鲁棒性</text>
+    <text class="pill-count" x="32" y="528">7 篇</text>
+    <text class="note" x="120" y="594" text-anchor="middle">通用策略快速扩展，</text>
+    <text class="note" x="120" y="616" text-anchor="middle">瓶颈在动作和 grounding。</text>
+  </g>
+
+  <g transform="translate(580 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#7c3aed"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#7c3aed"/>
+    <text class="head" x="120" y="35" text-anchor="middle">WAM</text>
+    <text class="count" x="120" y="62" text-anchor="middle">世界模型 · 64</text>
+    <rect class="pill" x="18" y="112" width="204" height="64"/>
+    <text class="pill-text" x="32" y="140">cascaded WAM</text>
+    <text class="pill-count" x="32" y="162">24 篇</text>
+    <rect class="pill" x="18" y="194" width="204" height="64"/>
+    <text class="pill-text" x="32" y="222">joint WAM</text>
+    <text class="pill-count" x="32" y="244">3 篇</text>
+    <rect class="pill" x="18" y="276" width="204" height="72"/>
+    <text class="pill-text" x="32" y="304">video / latent</text>
+    <text class="pill-text" x="32" y="326">world model</text>
+    <text class="pill-count" x="32" y="342">27 篇</text>
+    <rect class="pill" x="18" y="366" width="204" height="64"/>
+    <text class="pill-text" x="32" y="394">world model for VLA</text>
+    <text class="pill-count" x="32" y="416">10 篇</text>
+    <text class="note" x="120" y="594" text-anchor="middle">想象和预测层正在接入</text>
+    <text class="note" x="120" y="616" text-anchor="middle">规划与控制之间。</text>
+  </g>
+
+  <g transform="translate(850 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#059669"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#059669"/>
+    <text class="head" x="120" y="35" text-anchor="middle">Planning</text>
+    <text class="count" x="120" y="62" text-anchor="middle">推理规划 · 98</text>
+    <rect class="pill" x="18" y="112" width="204" height="64"/>
+    <text class="pill-text" x="32" y="140">任务分解</text>
+    <text class="pill-count" x="32" y="162">36 篇</text>
+    <rect class="pill" x="18" y="194" width="204" height="64"/>
+    <text class="pill-text" x="32" y="222">memory</text>
+    <text class="pill-count" x="32" y="244">11 篇</text>
+    <rect class="pill" x="18" y="276" width="204" height="64"/>
+    <text class="pill-text" x="32" y="304">failure monitor</text>
+    <text class="pill-count" x="32" y="326">9 篇</text>
+    <rect class="pill" x="18" y="358" width="204" height="72"/>
+    <text class="pill-text" x="32" y="386">constraint / affordance</text>
+    <text class="pill-text" x="32" y="408">planning</text>
+    <text class="pill-count" x="32" y="424">10 篇</text>
+    <rect class="pill" x="18" y="448" width="204" height="72"/>
+    <text class="pill-text" x="32" y="476">self-improving</text>
+    <text class="pill-text" x="32" y="498">planning</text>
+    <text class="pill-count" x="32" y="514">32 篇</text>
+    <text class="note" x="120" y="594" text-anchor="middle">agent 负责拆解任务、</text>
+    <text class="note" x="120" y="616" text-anchor="middle">记忆、恢复和自改进。</text>
+  </g>
+
+  <g transform="translate(1120 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#ea580c"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#ea580c"/>
+    <text class="head" x="120" y="35" text-anchor="middle">Embodiment</text>
+    <text class="count" x="120" y="62" text-anchor="middle">本体扩展 · 89</text>
+    <rect class="pill" x="18" y="112" width="204" height="64"/>
+    <text class="pill-text" x="32" y="140">humanoid</text>
+    <text class="pill-count" x="32" y="162">32 篇</text>
+    <rect class="pill" x="18" y="194" width="204" height="64"/>
+    <text class="pill-text" x="32" y="222">bimanual</text>
+    <text class="pill-count" x="32" y="244">13 篇</text>
+    <rect class="pill" x="18" y="276" width="204" height="64"/>
+    <text class="pill-text" x="32" y="304">dexterous hand</text>
+    <text class="pill-count" x="32" y="326">31 篇</text>
+    <rect class="pill" x="18" y="358" width="204" height="72"/>
+    <text class="pill-text" x="32" y="386">tactile / contact-rich</text>
+    <text class="pill-count" x="32" y="408">13 篇</text>
+    <text class="note" x="120" y="594" text-anchor="middle">本体变化带来动作空间、</text>
+    <text class="note" x="120" y="616" text-anchor="middle">传感和控制目标变化。</text>
+  </g>
+
+  <g transform="translate(1390 220)">
+    <rect class="card" x="0" y="0" width="240" height="652" stroke="#0f766e"/>
+    <rect x="0" y="0" width="240" height="86" rx="18" fill="#0f766e"/>
+    <text class="head" x="120" y="35" text-anchor="middle">Deployment</text>
+    <text class="count" x="120" y="62" text-anchor="middle">轻量化 / 评测 / 数据 · 95</text>
+    <rect class="pill" x="18" y="112" width="204" height="72"/>
+    <text class="pill-text" x="32" y="140">quantization / cache</text>
+    <text class="pill-text" x="32" y="162">/ tokenization</text>
+    <text class="pill-count" x="32" y="178">21 篇</text>
+    <rect class="pill" x="18" y="202" width="204" height="64"/>
+    <text class="pill-text" x="32" y="230">real-time execution</text>
+    <text class="pill-count" x="32" y="252">6 篇</text>
+    <rect class="pill" x="18" y="284" width="204" height="64"/>
+    <text class="pill-text" x="32" y="312">benchmark / dataset</text>
+    <text class="pill-count" x="32" y="334">39 篇</text>
+    <rect class="pill" x="18" y="366" width="204" height="64"/>
+    <text class="pill-text" x="32" y="394">sim2real</text>
+    <text class="pill-count" x="32" y="416">17 篇</text>
+    <rect class="pill" x="18" y="448" width="204" height="64"/>
+    <text class="pill-text" x="32" y="476">safety evaluation</text>
+    <text class="pill-count" x="32" y="498">12 篇</text>
+    <text class="note" x="120" y="594" text-anchor="middle">可部署性取决于数据、</text>
+    <text class="note" x="120" y="616" text-anchor="middle">效率、迁移和安全评测。</text>
+  </g>
+</svg>
