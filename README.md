@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Awesome Embodied AI Frontier Survey
+# 🤖 Awesome Embodied AI Papers
 
 **A curated top-conference-oriented map of embodied AI research across VLN, VLA, WAM, planning, embodiment, and deployment.**
 
@@ -8,9 +8,9 @@ English | [Chinese](README.zh-CN.md)
 
 [![Awesome](https://img.shields.io/badge/Awesome-Embodied%20AI-fc60a8?style=for-the-badge)](https://awesome.re)
 [![Survey Entries](https://img.shields.io/badge/Survey%20Entries-646-0984e3?style=for-the-badge)](README.md)
-[![Last Commit](https://img.shields.io/github/last-commit/neardws/embodied-ai-frontier-survey?style=for-the-badge&color=00b894)](https://github.com/neardws/embodied-ai-frontier-survey/commits)
-[![Stars](https://img.shields.io/github/stars/neardws/embodied-ai-frontier-survey?style=for-the-badge&color=fdcb6e&logo=github)](https://github.com/neardws/embodied-ai-frontier-survey/stargazers)
-[![Forks](https://img.shields.io/github/forks/neardws/embodied-ai-frontier-survey?style=for-the-badge&color=e17055&logo=github)](https://github.com/neardws/embodied-ai-frontier-survey/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/neardws/awesome-embodied-ai-papers?style=for-the-badge&color=00b894)](https://github.com/neardws/awesome-embodied-ai-papers/commits)
+[![Stars](https://img.shields.io/github/stars/neardws/awesome-embodied-ai-papers?style=for-the-badge&color=fdcb6e&logo=github)](https://github.com/neardws/awesome-embodied-ai-papers/stargazers)
+[![Forks](https://img.shields.io/github/forks/neardws/awesome-embodied-ai-papers?style=for-the-badge&color=e17055&logo=github)](https://github.com/neardws/awesome-embodied-ai-papers/network/members)
 
 Updated: 2026-06-28
 
@@ -184,8 +184,6 @@ Total: 35 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -203,8 +201,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2024</td>
@@ -220,8 +216,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2026</td>
@@ -237,8 +231,6 @@ Total: 35 papers.
 <td nowrap><a href="https://omnivla-nav.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/NHirose/OmniVLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2025</td>
@@ -254,8 +246,6 @@ Total: 35 papers.
 <td nowrap><a href="https://sites.google.com/view/opennav/home">project</a></td>
 <td nowrap><a href="https://github.com/YanyuanQiao/Open-Nav">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -271,8 +261,6 @@ Total: 35 papers.
 <td nowrap><a href="https://pku-epic.github.io/NavFoM-Web/">project</a></td>
 <td nowrap>-</td>
 <td nowrap><a href="https://pku-epic.github.io/NavFoM-Web/">data</a></td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -288,8 +276,6 @@ Total: 35 papers.
 <td nowrap><a href="https://internrobotics.github.io/internvla-n1-dualvln.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/InternRobotics/InternNav">code</a></td>
 <td nowrap>InternData-N1</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -305,8 +291,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -322,8 +306,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -339,8 +321,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -356,8 +336,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -373,8 +351,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -390,8 +366,6 @@ Total: 35 papers.
 <td nowrap><a href="https://navcraft.github.io">project</a></td>
 <td nowrap>-</td>
 <td nowrap>CoNavBench/NavCraft</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -407,8 +381,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -424,8 +396,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -441,8 +411,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -458,8 +426,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -475,8 +441,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -492,8 +456,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -509,8 +471,6 @@ Total: 35 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/61535">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -526,8 +486,6 @@ Total: 35 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/64780">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -543,8 +501,6 @@ Total: 35 papers.
 <td nowrap><a href="https://ucla-mobility.github.io/TIC-VLA/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -560,8 +516,6 @@ Total: 35 papers.
 <td nowrap><a href="https://zixuan-wang99.github.io/Hydra-Nav/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -577,8 +531,6 @@ Total: 35 papers.
 <td nowrap><a href="https://constrained-robot-fms.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -594,8 +546,6 @@ Total: 35 papers.
 <td nowrap><a href="https://ai4ce.github.io/wanderland/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -611,8 +561,6 @@ Total: 35 papers.
 <td nowrap><a href="https://spacetools.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -628,8 +576,6 @@ Total: 35 papers.
 <td nowrap><a href="https://snuvclab.github.io/dwm/">project</a></td>
 <td nowrap><a href="https://github.com/snuvclab/dwm">code</a></td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Humanoid-RL, WAM</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -645,8 +591,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/Badi-Li/GOAL">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -662,8 +606,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -679,8 +621,6 @@ Total: 35 papers.
 <td nowrap><a href="https://kuai-lab.github.io/neurips2025atena/">project</a></td>
 <td nowrap><a href="https://github.com/kuai-lab/NeurIPS25_att_vln">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -696,8 +636,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/PyyWill/NeuRO">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -713,8 +651,6 @@ Total: 35 papers.
 <td nowrap><a href="https://yvfengzhong.github.io/RoboTron-Nav">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -730,8 +666,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/GengzeZhou/SAME">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA, EAI-Safety</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -747,8 +681,6 @@ Total: 35 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -764,8 +696,6 @@ Total: 35 papers.
 <td nowrap><a href="https://yhancao.github.io/CogNav/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -781,8 +711,6 @@ Total: 35 papers.
 <td nowrap><a href="https://momakitchen.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/MoMaKitchen/MoMaKitchen">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/IPEC-COMMUNITY/MoMa-Kitchen-Data">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 </tbody>
 </table>
@@ -807,8 +735,6 @@ Total: 22 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -826,8 +752,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2024</td>
@@ -843,8 +767,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2024</td>
@@ -860,8 +782,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2026</td>
@@ -877,8 +797,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2025</td>
@@ -894,8 +812,6 @@ Total: 22 papers.
 <td nowrap><a href="https://b0b8k1ng.github.io/WMNav/">project</a></td>
 <td nowrap><a href="https://github.com/B0B8K1ng/WMNavigation">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -911,8 +827,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -928,8 +842,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, WAM</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -945,8 +857,6 @@ Total: 22 papers.
 <td nowrap><a href="https://miv-xjtu.github.io/JanusVLN.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/MIV-XJTU/JanusVLN">code</a></td>
 <td nowrap><a href="https://miv-xjtu.github.io/JanusVLN.github.io/">data</a></td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -962,8 +872,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -979,8 +887,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -996,8 +902,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/DUNDAI1998/RflyPano">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1013,8 +917,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1030,8 +932,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1047,8 +947,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1064,8 +962,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1081,8 +977,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1098,8 +992,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -1115,8 +1007,6 @@ Total: 22 papers.
 <td nowrap><a href="https://horizonrobotics.github.io/robot_lab/mapdream/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -1132,8 +1022,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/sx-zhang/GLMap">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -1149,8 +1037,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/PKU-SEC-Lab/EfficientNav">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -1166,8 +1052,6 @@ Total: 22 papers.
 <td nowrap><a href="https://mtu3d.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -1183,8 +1067,6 @@ Total: 22 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 </tbody>
 </table>
@@ -1209,8 +1091,6 @@ Total: 7 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -1228,8 +1108,6 @@ Total: 7 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1245,8 +1123,6 @@ Total: 7 papers.
 <td nowrap><a href="https://correctnav.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/owlet914/CorrectNav">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -1262,8 +1138,6 @@ Total: 7 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/64257">project</a></td>
 <td nowrap><a href="https://github.com/sunrise-ikun/SC2_WM">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -1279,8 +1153,6 @@ Total: 7 papers.
 <td nowrap><a href="https://crystalsixone.github.io/vln_pe.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -1296,8 +1168,6 @@ Total: 7 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/Feliciaxyao/NavMorph">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -1313,8 +1183,6 @@ Total: 7 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -1330,8 +1198,6 @@ Total: 7 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 </tbody>
 </table>
@@ -1356,8 +1222,6 @@ Total: 20 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -1375,8 +1239,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ECCV 2024</td>
@@ -1392,8 +1254,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -1409,8 +1269,6 @@ Total: 20 papers.
 <td nowrap><a href="https://xiaolousun.github.io/AutoFly/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -1426,8 +1284,6 @@ Total: 20 papers.
 <td nowrap><a href="https://shailab-ipec.github.io/openfly/">project</a></td>
 <td nowrap><a href="https://github.com/Eziotic/OpenFly">code</a></td>
 <td nowrap><a href="https://shailab-ipec.github.io/openfly/">data</a></td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -1443,8 +1299,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -1460,8 +1314,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -1477,8 +1329,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>CitySeeker 6,440 trajectories/8 cities</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1494,8 +1344,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1511,8 +1359,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1528,8 +1374,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1545,8 +1389,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>CityAVOS 2,420 tasks</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1562,8 +1404,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/CASIA-IVA-Lab/UrbanNav">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/Vigar001/UrbanNav">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1579,8 +1419,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1596,8 +1434,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Efficient-VLA, Humanoid-RL, EAI-Safety, WAM</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1613,8 +1449,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -1630,8 +1464,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -1647,8 +1479,6 @@ Total: 20 papers.
 <td nowrap><a href="https://frankzxshen.github.io/SAGE">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -1664,8 +1494,6 @@ Total: 20 papers.
 <td nowrap><a href="https://bigtree765.github.io/C-Nav-project/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -1681,8 +1509,6 @@ Total: 20 papers.
 <td nowrap><a href="https://scai.cs.jhu.edu/projects/SimWorldRobotics/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -1698,8 +1524,6 @@ Total: 20 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/suhaisheng/RoboSense">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/suhaisheng0527/RoboSense">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 </tbody>
 </table>
@@ -1724,8 +1548,6 @@ Total: 3 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -1743,8 +1565,6 @@ Total: 3 papers.
 <td nowrap><a href="https://horizonrobotics.github.io/robot_lab/aux-think/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>R2R-CoT-320k</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -1760,8 +1580,6 @@ Total: 3 papers.
 <td nowrap><a href="https://true-lab.ai/efficient_vln/">project</a></td>
 <td nowrap><a href="https://github.com/secure-ai-systems-group/adaptive-vision-and-language-navigation">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -1777,8 +1595,6 @@ Total: 3 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether navigation is moving toward continuous, physical, and cross-scene settings.</td>
 </tr>
 </tbody>
 </table>
@@ -1854,8 +1670,6 @@ Total: 70 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -1874,8 +1688,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2024</td>
@@ -1892,8 +1704,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -1910,8 +1720,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2024</td>
@@ -1928,8 +1736,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2023</td>
@@ -1946,8 +1752,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2023</td>
@@ -1964,8 +1768,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2025</td>
@@ -1982,8 +1784,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ECCV 2024</td>
@@ -2000,8 +1800,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -2018,8 +1816,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2025</td>
@@ -2036,8 +1832,6 @@ Total: 70 papers.
 <td nowrap><a href="https://tiny-vla.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/JayceWen/tinyvla">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2025</td>
@@ -2054,8 +1848,6 @@ Total: 70 papers.
 <td nowrap><a href="https://hamster-robot.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/liyi14/HAMSTER_beta">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2025</td>
@@ -2072,8 +1864,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/LostXine/LLaRA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA, Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2090,8 +1880,6 @@ Total: 70 papers.
 <td nowrap><a href="https://shihao1895.github.io/MemoryVLA">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2108,8 +1896,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2126,8 +1912,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2144,8 +1928,6 @@ Total: 70 papers.
 <td nowrap><a href="https://anonymous.4open.science/r/LLSA-E821">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Humanoid-RL, EAI-Safety</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2162,8 +1944,6 @@ Total: 70 papers.
 <td nowrap><a href="https://openmoss.github.io/RoboOmni/">project</a></td>
 <td nowrap><a href="https://github.com/OpenMOSS/RoboOmni">code</a></td>
 <td nowrap><a href="https://huggingface.co/OpenMOSS-Team/RoboOmni">hf</a> / <a href="https://huggingface.co/datasets/fnlp/OmniAction">hf</a></td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2180,8 +1960,6 @@ Total: 70 papers.
 <td nowrap><a href="https://hybrid-vla.github.io/">project</a> / <a href="https://robertwyq.github.io/univla.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/PKU-HMI-Lab/Hybrid-VLA">code</a> / <a href="https://github.com/baaivision/UniVLA">code</a></td>
 <td nowrap>CALVIN/LIBERO/SimplerEnv/ALOHA</td>
-<td nowrap>HCP-Survey, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2198,8 +1976,6 @@ Total: 70 papers.
 <td nowrap><a href="https://align-then-steer.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/TeleHuman/Align-Then-Steer">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2216,8 +1992,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2234,8 +2008,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2252,8 +2024,6 @@ Total: 70 papers.
 <td nowrap><a href="https://cladernyjorn.github.io/VLM4VLA.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2270,8 +2040,6 @@ Total: 70 papers.
 <td nowrap><a href="https://yangs03.github.io/InstructVLA_Home/">project</a></td>
 <td nowrap><a href="https://github.com/InternRobotics/InstructVLA">code</a></td>
 <td nowrap>650K VLA-IT dataset</td>
-<td nowrap>EAI-Guide, HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, Humanoid-RL, EAI-Safety, EAI-ROS, WAM, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -2288,8 +2056,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -2306,8 +2072,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -2324,8 +2088,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2342,8 +2104,6 @@ Total: 70 papers.
 <td nowrap><a href="https://beingbeyond.github.io/Being-H0">project</a> / <a href="https://beingbeyond.github.io/Being-H0/">project</a></td>
 <td nowrap><a href="https://github.com/BeingBeyond/Being-H0">code</a></td>
 <td nowrap>BeingBeyond h0_post_train dataset</td>
-<td nowrap>EAI-Guide, HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, Humanoid-RL, EAI-Safety, EAI-ROS, WAM, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2360,8 +2120,6 @@ Total: 70 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/60980">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2378,8 +2136,6 @@ Total: 70 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/62270">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2396,8 +2152,6 @@ Total: 70 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/62528">project</a></td>
 <td nowrap>-</td>
 <td nowrap>Personalized-SIMPLER</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2414,8 +2168,6 @@ Total: 70 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/66596">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2432,8 +2184,6 @@ Total: 70 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/61157">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2450,8 +2200,6 @@ Total: 70 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/66066">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, Humanoid-RL, EAI-Safety, WAM, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2468,8 +2216,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2486,8 +2232,6 @@ Total: 70 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/66510">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -2504,8 +2248,6 @@ Total: 70 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/63997">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -2522,8 +2264,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/MINT-SJTU/Evo-1">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -2540,8 +2280,6 @@ Total: 70 papers.
 <td nowrap><a href="https://hifvla.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -2558,8 +2296,6 @@ Total: 70 papers.
 <td nowrap><a href="https://lmzpai.github.io/SaPaVe">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -2576,8 +2312,6 @@ Total: 70 papers.
 <td nowrap><a href="https://changwei-jing.github.io/neural-physics/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -2594,8 +2328,6 @@ Total: 70 papers.
 <td nowrap><a href="https://jiutian-vl.github.io/CogVLA-page/">project</a></td>
 <td nowrap><a href="https://github.com/JiuTian-VL/CogVLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -2612,8 +2344,6 @@ Total: 70 papers.
 <td nowrap><a href="https://jiaming-zhou.github.io/AGNOSTOS/">project</a> / <a href="https://jiaming-zhou.github.io/AGNOSTOS">project</a></td>
 <td nowrap><a href="https://github.com/jiaming-zhou/X-ICM">code</a></td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -2630,8 +2360,6 @@ Total: 70 papers.
 <td nowrap><a href="https://berkeleyautomation.github.io/robo2vlm/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -2648,8 +2376,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/LogosRoboticsGroup/4D-VLA">code</a></td>
 <td nowrap>MV-Bench</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -2666,8 +2392,6 @@ Total: 70 papers.
 <td nowrap><a href="https://sites.google.com/view/blindfoldedexperts/home">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -2684,8 +2408,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -2702,8 +2424,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -2720,8 +2440,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -2738,8 +2456,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -2756,8 +2472,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>spatial-semantic reasoning benchmark</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -2774,8 +2488,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -2792,8 +2504,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -2810,8 +2520,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -2828,8 +2536,6 @@ Total: 70 papers.
 <td nowrap><a href="https://ottervla.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -2846,8 +2552,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/CladernyJorn/UP-VLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, Awesome-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -2864,8 +2568,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -2882,8 +2584,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/ml-jku/LRAM">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -2900,8 +2600,6 @@ Total: 70 papers.
 <td nowrap><a href="https://arm4r.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Humanoid-RL, WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -2918,8 +2616,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/iLearn-Lab/ICML25-STAR">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-Guide, Octoday, HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, Humanoid-RL, EAI-Safety, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -2936,8 +2632,6 @@ Total: 70 papers.
 <td nowrap><a href="https://2toinf.github.io/UniAct/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, Humanoid-RL</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -2954,8 +2648,6 @@ Total: 70 papers.
 <td nowrap><a href="https://gary3410.github.io/momanipVLA/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -2972,8 +2664,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/CVMI-Lab/SlotMIM">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -2990,8 +2680,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -3008,8 +2696,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -3026,8 +2712,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -3044,8 +2728,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/clorislili/CrayonRobo">code</a></td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, Humanoid-RL, EAI-Safety</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -3062,8 +2744,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>open-source RoVI dataset</td>
-<td nowrap>EAI-Guide, HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, Humanoid-RL, EAI-Safety, WAM, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -3080,8 +2760,6 @@ Total: 70 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -3098,8 +2776,6 @@ Total: 70 papers.
 <td nowrap><a href="https://tea-lab.github.io/TwoByTwo/">project</a></td>
 <td nowrap><a href="https://github.com/TEA-Lab/TwoByTWo">code</a></td>
 <td nowrap>2BY2 dataset</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -3116,8 +2792,6 @@ Total: 70 papers.
 <td nowrap><a href="https://www.qrcat.cn/prof-robot/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 </tbody>
 </table>
@@ -3143,8 +2817,6 @@ Total: 21 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -3163,8 +2835,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2024</td>
@@ -3181,8 +2851,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3199,8 +2867,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2025</td>
@@ -3217,8 +2883,6 @@ Total: 21 papers.
 <td nowrap><a href="https://latentactionpretraining.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/LatentActionPretraining/LAPA">code</a></td>
 <td nowrap><a href="https://huggingface.co/latent-action-pretraining/LAPA-7B-openx">hf</a></td>
-<td nowrap>Awesome-VLA, WAM, Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3235,8 +2899,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -3253,8 +2915,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, EAI-Safety, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -3271,8 +2931,6 @@ Total: 21 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/60681">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -3289,8 +2947,6 @@ Total: 21 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/61232">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -3307,8 +2963,6 @@ Total: 21 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/62908">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -3325,8 +2979,6 @@ Total: 21 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/65967">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -3343,8 +2995,6 @@ Total: 21 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/66520">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -3361,8 +3011,6 @@ Total: 21 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/62176">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -3379,8 +3027,6 @@ Total: 21 papers.
 <td nowrap><a href="https://lance-lot.github.io/adaptive-chunking.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -3397,8 +3043,6 @@ Total: 21 papers.
 <td nowrap><a href="https://xl-vla.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/EmptyBlueBox/DexLatent">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -3415,8 +3059,6 @@ Total: 21 papers.
 <td nowrap><a href="https://compliant-residual-dagger.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -3433,8 +3075,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/yyxssm/OrderMind">code</a></td>
 <td nowrap>Manipulation Ordering Benchmark</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -3451,8 +3091,6 @@ Total: 21 papers.
 <td nowrap><a href="https://primt25.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -3469,8 +3107,6 @@ Total: 21 papers.
 <td nowrap><a href="https://actol-pretrain.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -3487,8 +3123,6 @@ Total: 21 papers.
 <td nowrap><a href="https://project-latentpolicybarrier.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/zhanyisun/lpb">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -3505,8 +3139,6 @@ Total: 21 papers.
 <td nowrap><a href="https://chenyi99.github.io/moto/">project</a></td>
 <td nowrap><a href="https://github.com/TencentARC/Moto">code</a></td>
 <td nowrap><a href="https://huggingface.co/TencentARC/Moto">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -3523,8 +3155,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/MCG-NJU/Tra-MoE">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 </tbody>
 </table>
@@ -3550,8 +3180,6 @@ Total: 68 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -3570,8 +3198,6 @@ Total: 68 papers.
 <td nowrap><a href="https://diffusion-vla.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2025</td>
@@ -3588,8 +3214,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2025</td>
@@ -3606,8 +3230,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -3624,8 +3246,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2024</td>
@@ -3642,8 +3262,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3660,8 +3278,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3678,8 +3294,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3696,8 +3310,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3714,8 +3326,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3732,8 +3342,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3750,8 +3358,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3768,8 +3374,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3786,8 +3390,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3804,8 +3406,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3822,8 +3422,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3840,8 +3438,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3858,8 +3454,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3876,8 +3470,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3894,8 +3486,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3912,8 +3502,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3930,8 +3518,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3948,8 +3534,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3966,8 +3550,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -3984,8 +3566,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4002,8 +3582,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4020,8 +3598,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4038,8 +3614,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4056,8 +3630,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4074,8 +3646,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4092,8 +3662,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4110,8 +3678,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4128,8 +3694,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -4146,8 +3710,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -4164,8 +3726,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -4182,8 +3742,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -4200,8 +3758,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -4218,8 +3774,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -4236,8 +3790,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -4254,8 +3806,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -4272,8 +3822,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -4290,8 +3838,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -4308,8 +3854,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, EAI-VLA-VLN, Humanoid-RL</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -4326,8 +3870,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -4344,8 +3886,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4362,8 +3902,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4380,8 +3918,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4398,8 +3934,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4416,8 +3950,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4434,8 +3966,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4452,8 +3982,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4470,8 +3998,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4488,8 +4014,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4506,8 +4030,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -4524,8 +4046,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -4542,8 +4062,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -4560,8 +4078,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -4578,8 +4094,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -4596,8 +4110,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -4614,8 +4126,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, EAI-VLA-VLN, Awesome-VLA, EAI-Safety</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -4632,8 +4142,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -4650,8 +4158,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA, EAI-ROS</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -4668,8 +4174,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -4686,8 +4190,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -4704,8 +4206,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -4722,8 +4222,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -4740,8 +4238,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>RoboTwin_Benchmark tasks</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -4758,8 +4254,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -4776,8 +4270,6 @@ Total: 68 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 </tbody>
 </table>
@@ -4803,8 +4295,6 @@ Total: 31 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -4823,8 +4313,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2026</td>
@@ -4841,8 +4329,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2025</td>
@@ -4859,8 +4345,6 @@ Total: 31 papers.
 <td nowrap><a href="https://kalie-vlm.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/gractang/kalie">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4877,8 +4361,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4895,8 +4377,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4913,8 +4393,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4931,8 +4409,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4949,8 +4425,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, Humanoid-RL, WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4967,8 +4441,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -4985,8 +4457,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, Humanoid-RL, WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5003,8 +4473,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5021,8 +4489,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5039,8 +4505,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -5057,8 +4521,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -5075,8 +4537,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -5093,8 +4553,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -5111,8 +4569,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -5129,8 +4585,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -5147,8 +4601,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -5165,8 +4617,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -5183,8 +4633,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -5201,8 +4649,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -5219,8 +4665,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -5237,8 +4681,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -5255,8 +4697,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -5273,8 +4713,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -5291,8 +4729,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -5309,8 +4745,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -5327,8 +4761,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -5345,8 +4777,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -5363,8 +4793,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 </tbody>
 </table>
@@ -5390,8 +4818,6 @@ Total: 16 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -5410,8 +4836,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>RL-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -5428,8 +4852,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>RL-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2026</td>
@@ -5446,8 +4868,6 @@ Total: 16 papers.
 <td nowrap><a href="https://refined-policy-distillation.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/Refined-Policy-Distillation/RPD">code</a></td>
 <td nowrap><a href="https://huggingface.co/Juelg">hf</a></td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5464,8 +4884,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>Interleaved X-Embodiment; 210k trajectories</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5482,8 +4900,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, EAI-Safety, WAM, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5500,8 +4916,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5518,8 +4932,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>16 robot-platform locomotion dataset suite</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Humanoid-RL, WAM</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5536,8 +4948,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5554,8 +4964,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5572,8 +4980,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5590,8 +4996,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -5608,8 +5012,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -5626,8 +5028,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -5644,8 +5044,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, Humanoid-RL, EAI-Safety, WAM, RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -5662,8 +5060,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/gen-robot/RL4VLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -5680,8 +5076,6 @@ Total: 16 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>RL-VLA</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 </tbody>
 </table>
@@ -5707,8 +5101,6 @@ Total: 7 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -5727,8 +5119,6 @@ Total: 7 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5745,8 +5135,6 @@ Total: 7 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2025</td>
@@ -5763,8 +5151,6 @@ Total: 7 papers.
 <td nowrap><a href="https://aasherh.github.io/byovla/">project</a></td>
 <td nowrap><a href="https://github.com/irom-princeton/byovla">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5781,8 +5167,6 @@ Total: 7 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -5799,8 +5183,6 @@ Total: 7 papers.
 <td nowrap><a href="https://sites.google.com/view/pku-safevla">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>RL-VLA, EAI-Safety</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -5817,8 +5199,6 @@ Total: 7 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -5835,8 +5215,6 @@ Total: 7 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>LIBERO + BridgeData V2 attack assets</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare VLA progress in generalization, action representation, and execution stability.</td>
 </tr>
 </tbody>
 </table>
@@ -5901,8 +5279,6 @@ Total: 24 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -5920,8 +5296,6 @@ Total: 24 papers.
 <td nowrap><a href="https://nvlabs.github.io/X-MOBILITY/">project</a></td>
 <td nowrap><a href="https://github.com/NVlabs/X-MOBILITY">code</a></td>
 <td nowrap><a href="https://github.com/NVlabs/X-MOBILITY">data</a></td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5937,8 +5311,6 @@ Total: 24 papers.
 <td nowrap><a href="https://ctrl-world.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/Robert-gyj/Ctrl-World">code</a></td>
 <td nowrap><a href="https://huggingface.co/yjguo/Ctrl-World">hf</a></td>
-<td nowrap>WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5954,8 +5326,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5971,8 +5341,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -5988,8 +5356,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6005,8 +5371,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Humanoid-RL, EAI-Safety, WAM, RL-VLA</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6022,8 +5386,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>200-task benchmark</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6039,8 +5401,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6056,8 +5416,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6073,8 +5431,6 @@ Total: 24 papers.
 <td nowrap><a href="https://oc-storm.weipuzhang.com">project</a></td>
 <td nowrap>-</td>
 <td nowrap>Atari 100k, Hollow Knight</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, Humanoid-RL, EAI-Safety</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6090,8 +5446,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6107,8 +5461,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>World-In-World benchmark</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6124,8 +5476,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>ENACT</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -6141,8 +5491,6 @@ Total: 24 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/63978">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Humanoid-RL, WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -6158,8 +5506,6 @@ Total: 24 papers.
 <td nowrap><a href="https://hcplab-sysu.github.io/DDP-WM">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -6175,8 +5521,6 @@ Total: 24 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/62543">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -6192,8 +5536,6 @@ Total: 24 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/64209">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -6209,8 +5551,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -6226,8 +5566,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -6243,8 +5581,6 @@ Total: 24 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/raktimgg/OSVI-WM">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -6260,8 +5596,6 @@ Total: 24 papers.
 <td nowrap><a href="https://gen-irasim.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -6277,8 +5611,6 @@ Total: 24 papers.
 <td nowrap><a href="https://gaussian-world-model.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/Gaussian-World-Model/gaussianwm">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -6294,8 +5626,6 @@ Total: 24 papers.
 <td nowrap><a href="https://pku-epic.github.io/DyWA/">project</a></td>
 <td nowrap><a href="https://github.com/jiangranlv/DyWA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -6311,8 +5641,6 @@ Total: 24 papers.
 <td nowrap><a href="https://tesseractworld.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/UMass-Embodied-AGI/TesserAct">code</a></td>
 <td nowrap><a href="https://huggingface.co/anyeZHY/tesseract">hf</a></td>
-<td nowrap>WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 </tbody>
 </table>
@@ -6337,8 +5665,6 @@ Total: 3 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -6356,8 +5682,6 @@ Total: 3 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/zhaozijie2022/seqwm-marl">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -6373,8 +5697,6 @@ Total: 3 papers.
 <td nowrap><a href="https://periphanes.github.io/dust/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -6390,8 +5712,6 @@ Total: 3 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/return-sleep/Diffusion_based_imaginative_Coordination">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, EAI-Safety, WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 </tbody>
 </table>
@@ -6411,13 +5731,12 @@ Total: 27 papers.
 <th nowrap>Action Interface</th>
 <th nowrap>Use</th>
 <th nowrap>Sim/Real</th>
+<th nowrap>Benchmark</th>
 <th nowrap>Paper Task/Goal</th>
 <th nowrap>Paper</th>
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -6436,8 +5755,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM, EAI-VLA-VLN</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2024</td>
@@ -6454,8 +5771,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -6472,8 +5787,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2024</td>
@@ -6490,8 +5803,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2024</td>
@@ -6508,8 +5819,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2025</td>
@@ -6526,8 +5835,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2024</td>
@@ -6544,8 +5851,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2024</td>
@@ -6562,8 +5867,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2023</td>
@@ -6580,8 +5883,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ECCV 2024</td>
@@ -6598,8 +5899,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -6616,8 +5915,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>WAM</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2024</td>
@@ -6634,8 +5931,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2024</td>
@@ -6652,8 +5947,6 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2025</td>
@@ -6664,13 +5957,12 @@ Total: 27 papers.
 <td nowrap>bimanual action</td>
 <td nowrap>bimanual manipulation prediction</td>
 <td nowrap>Sim + Real</td>
+<td nowrap>-</td>
 <td nowrap>Support general bimanual manipulation with a hierarchical 3D world model.</td>
 <td nowrap><a href="https://arxiv.org/abs/2506.19842">paper</a></td>
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/April-Yz/ManiGaussian_bimanual">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6681,13 +5973,12 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>3D-aware video/world representation</td>
 <td nowrap>3D reasoning benchmarks</td>
+<td nowrap>-</td>
 <td nowrap>Address lack of explicit 3D grounding and spatial consistency in video world models.</td>
 <td nowrap><a href="https://openreview.net/forum?id=3q9vHEqsNx">paper</a></td>
 <td nowrap><a href="https://fantasy-amap.github.io/fantasy-world/">project</a></td>
 <td nowrap><a href="https://github.com/Fantasy-AMAP/fantasy-world">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6698,13 +5989,12 @@ Total: 27 papers.
 <td nowrap>prompt/inference pathways</td>
 <td nowrap>unified 3D understanding and interaction</td>
 <td nowrap>multi-dataset 3D tasks</td>
+<td nowrap>-</td>
 <td nowrap>Address fragmentation among 3D scene understanding tasks and the difficulty of sharing representations and transfer.</td>
 <td nowrap><a href="https://openreview.net/forum?id=NQq9JLMfNN">paper</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6715,13 +6005,12 @@ Total: 27 papers.
 <td nowrap>causal action guidance</td>
 <td nowrap>interactive world modeling</td>
 <td nowrap>sequential decision benchmarks</td>
+<td nowrap>-</td>
 <td nowrap>Address traditional world models requiring large amounts of domain-specific training and producing coarse predictions.</td>
 <td nowrap><a href="https://openreview.net/forum?id=pFyzqbUiF9">paper</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6732,13 +6021,12 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>egocentric view/world reconstruction for manipulation</td>
 <td nowrap>AR/VR/robotics settings</td>
+<td nowrap>-</td>
 <td nowrap>Address exocentric-to-egocentric conversion relying on synchronized multi-view data, camera poses, or initial egocentric frames.</td>
 <td nowrap><a href="https://openreview.net/forum?id=wcTuZG9P2o">paper</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -6749,13 +6037,12 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>LiDAR generation/editing/evaluation</td>
 <td nowrap>nuScenes benchmark</td>
+<td nowrap>-</td>
 <td nowrap>Address controllability, temporal consistency, and standardized evaluation in autonomous-driving LiDAR world generation.</td>
 <td nowrap><a href="https://ojs.aaai.org/index.php/AAAI/article/view/38905">paper</a></td>
 <td nowrap><a href="https://lidarcrafter.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/worldbench/LiDARCrafter">code</a></td>
 <td nowrap>nuScenes + scene/object/sequence metrics + HuggingFace weights</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -6766,13 +6053,12 @@ Total: 27 papers.
 <td nowrap>-</td>
 <td nowrap>teleoperation/policy evaluation/model-based planning</td>
 <td nowrap>OOD robot benchmarks</td>
+<td nowrap>-</td>
 <td nowrap>Address insufficient data coverage, scarce action labels, and difficulty simulating contact-rich tasks in robot world models.</td>
 <td nowrap><a href="https://arxiv.org/abs/2602.06949">paper</a></td>
 <td nowrap><a href="https://dreamdojo-world.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/NVIDIA/DreamDojo">code</a></td>
 <td nowrap><a href="https://huggingface.co/nvidia/DreamDojo">hf</a></td>
-<td nowrap>Humanoid-RL, WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -6783,13 +6069,12 @@ Total: 27 papers.
 <td nowrap>mixture of latent actions from inverse dynamics</td>
 <td nowrap>video-to-action execution</td>
 <td nowrap>LIBERO, CALVIN, LIBERO-Plus + Real</td>
+<td nowrap>-</td>
 <td nowrap>Address the difficulty of stably converting visually realistic generated future video frames into control actions.</td>
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/66091">paper</a></td>
 <td nowrap><a href="https://logosroboticsgroup.github.io/MoLA/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -6800,13 +6085,12 @@ Total: 27 papers.
 <td nowrap>action sequence prediction</td>
 <td nowrap>generalizable manipulation</td>
 <td nowrap>Sim + Real</td>
+<td nowrap>-</td>
 <td nowrap>Address insufficient joint modeling of visual imagination and action prediction in generalizable robotic manipulation.</td>
 <td nowrap><a href="https://openreview.net/forum?id=UPHlqbZFZB">paper</a></td>
 <td nowrap><a href="https://videovla-nips2025.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/VideoVLA-Project/VideoVLA">code</a></td>
 <td nowrap>SIMPLER, OXE, Realman real-world eval</td>
-<td nowrap>EAI-VLA-VLN, WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -6817,13 +6101,12 @@ Total: 27 papers.
 <td nowrap>EnerVerse-A policy head/action chunks</td>
 <td nowrap>robot manipulation foundation model</td>
 <td nowrap>Sim + Real</td>
+<td nowrap>-</td>
 <td nowrap>Address long-horizon future-space modeling, 3D grounding, and sim-to-real gaps in robotic manipulation.</td>
 <td nowrap><a href="https://arxiv.org/abs/2501.01895">paper</a></td>
 <td nowrap><a href="https://sites.google.com/view/enerverse">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -6834,13 +6117,12 @@ Total: 27 papers.
 <td nowrap>diffusion transformer action prediction</td>
 <td nowrap>VLA manipulation</td>
 <td nowrap>CALVIN + Real</td>
+<td nowrap>-</td>
 <td nowrap>Address redundant information in VLA image prediction and lack of key world knowledge.</td>
 <td nowrap><a href="https://arxiv.org/abs/2507.04447">paper</a></td>
 <td nowrap><a href="https://zhangwenyao1.github.io/DreamVLA/index.html">project</a></td>
 <td nowrap><a href="https://github.com/Zhangwenyao1/DreamVLA">code</a></td>
 <td nowrap><a href="https://huggingface.co/WenyaoZhang/DreamVLA">hf</a></td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -6851,13 +6133,12 @@ Total: 27 papers.
 <td nowrap>implicit inverse dynamics</td>
 <td nowrap>generalist robot policy</td>
 <td nowrap>CALVIN + real dexterous tasks</td>
+<td nowrap>-</td>
 <td nowrap>Address static visual encoders ignoring dynamic information needed for embodied tasks.</td>
 <td nowrap><a href="https://arxiv.org/abs/2412.14803">paper</a></td>
 <td nowrap><a href="https://video-prediction-policy.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/roboterax/video-prediction-policy">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -6868,13 +6149,12 @@ Total: 27 papers.
 <td nowrap>video demonstrations for imitation</td>
 <td nowrap>task-oriented video generation/manipulation</td>
 <td nowrap>-</td>
+<td nowrap>-</td>
 <td nowrap>Address insufficient robot imitation-learning quality caused by inconsistent viewpoints and interaction misalignment in hand-object interaction videos.</td>
 <td nowrap><a href="https://arxiv.org/abs/2503.11423">paper</a></td>
 <td nowrap><a href="https://taste-rob.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/GAP-LAB-CUHK-SZ/TASTE-Rob">code</a></td>
 <td nowrap>TASTE-Rob 100,856 videos</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -6885,13 +6165,12 @@ Total: 27 papers.
 <td nowrap>policy conditioned on generated future graphs</td>
 <td nowrap>policy learning from videos</td>
 <td nowrap>Sim + Real + cross-embodiment</td>
+<td nowrap>-</td>
 <td nowrap>Address the high cost of action-labeled robot data and the difficulty of learning skills from cross-embodiment videos.</td>
 <td nowrap><a href="https://cvpr.thecvf.com/virtual/2025/poster/34942">paper</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 </tbody>
 </table>
@@ -6916,8 +6195,6 @@ Total: 10 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -6935,8 +6212,6 @@ Total: 10 papers.
 <td nowrap><a href="https://ginwind.github.io/VLA-JEPA/">project</a></td>
 <td nowrap><a href="https://github.com/ginwind/VLA-JEPA">code</a></td>
 <td nowrap><a href="https://huggingface.co/ginwind/VLA-JEPA">hf</a></td>
-<td nowrap>WAM</td>
-<td nowrap>Used to judge whether latent world prediction improves VLA sample efficiency, robustness, and generalization.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2026</td>
@@ -6952,8 +6227,6 @@ Total: 10 papers.
 <td nowrap><a href="https://vla-reasoner.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/wkguo/VLA-Reasoner">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2025</td>
@@ -6969,8 +6242,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -6986,8 +6257,6 @@ Total: 10 papers.
 <td nowrap><a href="https://genie-envisioner.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/AgibotTech/Genie-Envisioner-V1">code</a></td>
 <td nowrap>&gt;1M manipulation episodes + released benchmarks</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7003,8 +6272,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7020,8 +6287,6 @@ Total: 10 papers.
 <td nowrap><a href="https://wm-po.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/WM-PO/WMPO">code</a></td>
 <td nowrap><a href="https://huggingface.co/fangqi/WMPO">hf</a></td>
-<td nowrap>WAM, RL-VLA</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7037,8 +6302,6 @@ Total: 10 papers.
 <td nowrap><a href="https://research.nvidia.com/labs/dir/cosmos-policy/cosmos_policy_index.html">project</a></td>
 <td nowrap><a href="https://github.com/nvlabs/cosmos-policy">code</a></td>
 <td nowrap>LIBERO, RoboCasa, real bimanual tasks</td>
-<td nowrap>EAI-VLA-VLN, WAM</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -7054,8 +6317,6 @@ Total: 10 papers.
 <td nowrap><a href="https://worldagen.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/mll-lab-nu/WorldAgen">code</a></td>
 <td nowrap>CALVIN, LIBERO</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -7071,8 +6332,6 @@ Total: 10 papers.
 <td nowrap><a href="https://sites.google.com/view/vla-w">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -7088,8 +6347,6 @@ Total: 10 papers.
 <td nowrap><a href="https://fx-hit.github.io/cowvla-io/">project</a></td>
 <td nowrap><a href="https://github.com/fx-hit/CoWVLA">code</a></td>
 <td nowrap><a href="https://huggingface.co/hitfx/CoWVLA">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to judge whether world prediction can support planning and action verification.</td>
 </tr>
 </tbody>
 </table>
@@ -7159,8 +6416,6 @@ Total: 36 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -7178,8 +6433,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2024</td>
@@ -7195,8 +6448,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2024</td>
@@ -7212,8 +6463,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>EMNLP 2025</td>
@@ -7229,8 +6478,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2024</td>
@@ -7246,8 +6493,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2025</td>
@@ -7263,8 +6508,6 @@ Total: 36 papers.
 <td nowrap><a href="https://gary3410.github.io/eif_unknown/">project</a></td>
 <td nowrap><a href="https://github.com/Gary3410/eif_unknown">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether agentic planning can decompose tasks, maintain memory, detect failure, and recover.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7280,8 +6523,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7297,8 +6538,6 @@ Total: 36 papers.
 <td nowrap><a href="https://robertwyq.github.io/univla.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/baaivision/UniVLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7314,8 +6553,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7331,8 +6568,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7348,8 +6583,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7365,8 +6598,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7382,8 +6613,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7399,8 +6628,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7416,8 +6643,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7433,8 +6658,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7450,8 +6673,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7467,8 +6688,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7484,8 +6703,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>MV-RoboBench</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7501,8 +6718,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>REI-Bench</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7518,8 +6733,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7535,8 +6748,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/UITron-hub/OmniActor">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -7552,8 +6763,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -7569,8 +6778,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -7586,8 +6793,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -7603,8 +6808,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -7620,8 +6823,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Humanoid-RL, EAI-Safety, WAM</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -7637,8 +6838,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -7654,8 +6853,6 @@ Total: 36 papers.
 <td nowrap><a href="https://aipixel.github.io/TapSampling/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -7671,8 +6868,6 @@ Total: 36 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/63250">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -7688,8 +6883,6 @@ Total: 36 papers.
 <td nowrap><a href="https://vla-safe.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/vla-safe/SAFE">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, EAI-VLA-VLN, Humanoid-RL, EAI-Safety</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -7705,8 +6898,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -7722,8 +6913,6 @@ Total: 36 papers.
 <td nowrap><a href="https://rdd-neurips.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/tasl-lab/Retrieval-Demonstration-Decomposer">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -7739,8 +6928,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -7756,8 +6943,6 @@ Total: 36 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -7773,8 +6958,6 @@ Total: 36 papers.
 <td nowrap><a href="https://vlabench.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/OpenMOSS/VLABench">code</a></td>
 <td nowrap>VLABench HF</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, WAM</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 </tbody>
 </table>
@@ -7799,8 +6982,6 @@ Total: 11 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -7818,8 +6999,6 @@ Total: 11 papers.
 <td nowrap><a href="https://bjhyzj.github.io/dovsg-web/">project</a></td>
 <td nowrap><a href="https://github.com/BJHYZJ/DovSG">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether agentic planning can decompose tasks, maintain memory, detect failure, and recover.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7835,8 +7014,6 @@ Total: 11 papers.
 <td nowrap><a href="https://jen-pan.github.io/memer/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7852,8 +7029,6 @@ Total: 11 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7869,8 +7044,6 @@ Total: 11 papers.
 <td nowrap><a href="https://sites.google.com/view/memorybenchrobots/">project</a></td>
 <td nowrap><a href="https://github.com/CognitiveAISystems/MIKASA-Robo">code</a></td>
 <td nowrap>MIKASA/MIKASA-Robo</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -7886,8 +7059,6 @@ Total: 11 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -7903,8 +7074,6 @@ Total: 11 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -7920,8 +7089,6 @@ Total: 11 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -7937,8 +7104,6 @@ Total: 11 papers.
 <td nowrap><a href="https://cybertronagent.github.io/OptimusVLA.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/iLearn-Lab/CVPR26-OptimusVLA">code</a></td>
 <td nowrap><a href="https://huggingface.co/iLearn-Lab/OptimusVLA_Memory">hf</a></td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -7954,8 +7119,6 @@ Total: 11 papers.
 <td nowrap><a href="https://embodied-videoagent.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/Embodied-VideoAgent/embodied-videoagent">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -7971,8 +7134,6 @@ Total: 11 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -7988,8 +7149,6 @@ Total: 11 papers.
 <td nowrap><a href="https://sam2act.github.io">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 </tbody>
 </table>
@@ -8014,8 +7173,6 @@ Total: 9 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -8033,8 +7190,6 @@ Total: 9 papers.
 <td nowrap><a href="https://yilin-wu98.github.io/steering-reasoning-vla/">project</a></td>
 <td nowrap><a href="https://github.com/NVlabs/actalign">code</a></td>
 <td nowrap><a href="https://github.com/NVlabs/actalign">data</a></td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether agentic planning can decompose tasks, maintain memory, detect failure, and recover.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8050,8 +7205,6 @@ Total: 9 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8067,8 +7220,6 @@ Total: 9 papers.
 <td nowrap><a href="https://sunandreas0437-svg.github.io/recapa-project-page/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8084,8 +7235,6 @@ Total: 9 papers.
 <td nowrap><a href="https://sites.google.com/utexas.edu/armor">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -8101,8 +7250,6 @@ Total: 9 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -8118,8 +7265,6 @@ Total: 9 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -8135,8 +7280,6 @@ Total: 9 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8152,8 +7295,6 @@ Total: 9 papers.
 <td nowrap><a href="https://tum-lsy.github.io/fiper_website">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -8169,8 +7310,6 @@ Total: 9 papers.
 <td nowrap><a href="https://zhoues.github.io/Code-as-Monitor/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 </tbody>
 </table>
@@ -8195,8 +7334,6 @@ Total: 10 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -8214,8 +7351,6 @@ Total: 10 papers.
 <td nowrap><a href="https://sites.google.com/stanford.edu/points2plans">project</a></td>
 <td nowrap><a href="https://github.com/yixuanhuang98/Points2Plans">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to judge whether agentic planning can decompose tasks, maintain memory, detect failure, and recover.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8231,8 +7366,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8248,8 +7381,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8265,8 +7396,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8282,8 +7411,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -8299,8 +7426,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -8316,8 +7441,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -8333,8 +7456,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8350,8 +7471,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/chiht21/InstructFlow">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -8367,8 +7486,6 @@ Total: 10 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 </tbody>
 </table>
@@ -8393,8 +7510,6 @@ Total: 32 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -8412,8 +7527,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, EAI-Safety, WAM, RL-VLA</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8429,8 +7542,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8446,8 +7557,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -8463,8 +7572,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -8480,8 +7587,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -8497,8 +7602,6 @@ Total: 32 papers.
 <td nowrap><a href="https://robertwyq.github.io/univla.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/baaivision/UniVLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -8514,8 +7617,6 @@ Total: 32 papers.
 <td nowrap><a href="https://loveju1y.github.io/Latent-Reasoning-VLA/">project</a></td>
 <td nowrap><a href="https://github.com/LoveJu1y/LaRA-VLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -8531,8 +7632,6 @@ Total: 32 papers.
 <td nowrap><a href="https://vla-last0.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -8548,8 +7647,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -8565,8 +7662,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -8582,8 +7677,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>Reasoning2Action-Sim</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -8599,8 +7692,6 @@ Total: 32 papers.
 <td nowrap><a href="https://jasper0314-huang.github.io/fast-thinkact/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8616,8 +7707,6 @@ Total: 32 papers.
 <td nowrap><a href="https://fast-in-slow.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/CHEN-H01/Fast-in-Slow">code</a></td>
 <td nowrap><a href="https://huggingface.co/chenhao01/fisvla/tree/main">hf</a></td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8633,8 +7722,6 @@ Total: 32 papers.
 <td nowrap><a href="https://chatvla-2.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/tutujingyugang1/ChatVLA_public">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8650,8 +7737,6 @@ Total: 32 papers.
 <td nowrap><a href="https://nus-lins-lab.github.io/vlaos/">project</a></td>
 <td nowrap><a href="https://github.com/HeegerGao/VLA-OS">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/Linslab/VLA-OS-Dataset">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8667,8 +7752,6 @@ Total: 32 papers.
 <td nowrap><a href="https://jasper0314-huang.github.io/thinkact-vla/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, RL-VLA</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8684,8 +7767,6 @@ Total: 32 papers.
 <td nowrap><a href="https://self-improving-efms.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, EAI-Safety, WAM, RL-VLA</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8701,8 +7782,6 @@ Total: 32 papers.
 <td nowrap><a href="https://chain-of-action.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/ByteDance-Seed/Chain-of-Action">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/Solomonz/Chain-of-Action">hf</a></td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8718,8 +7797,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8735,8 +7812,6 @@ Total: 32 papers.
 <td nowrap><a href="https://openhumanoidgen.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/TeleHuman/HumanoidGen">code</a></td>
 <td nowrap>humanoidgen_dataset/model</td>
-<td nowrap>Humanoid-RL, WAM</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -8752,8 +7827,6 @@ Total: 32 papers.
 <td nowrap><a href="https://dexflywheel.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -8769,8 +7842,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -8786,8 +7857,6 @@ Total: 32 papers.
 <td nowrap><a href="https://abliao.github.io/RoBridge/">project</a></td>
 <td nowrap><a href="https://github.com/abliao/RoBridge">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -8803,8 +7872,6 @@ Total: 32 papers.
 <td nowrap><a href="https://lbp-authors.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/Dstate/LBP">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -8820,8 +7887,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/Singularity0104/equilibrium-planner">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Humanoid-RL, EAI-Safety, WAM, RL-VLA</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -8837,8 +7902,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/yhli123/WOMD-Reasoning">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -8854,8 +7917,6 @@ Total: 32 papers.
 <td nowrap><a href="https://cot-vla.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Awesome-VLA, WAM</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -8871,8 +7932,6 @@ Total: 32 papers.
 <td nowrap><a href="https://dexdiffuser.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -8888,8 +7947,6 @@ Total: 32 papers.
 <td nowrap><a href="https://superrobobrain.github.io/robobrainv1/index.html">project</a></td>
 <td nowrap><a href="https://github.com/FlagOpen/RoboBrain">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/BAAI/ShareRobot">hf</a></td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -8905,8 +7962,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -8922,8 +7977,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>RoboSpatial</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -8939,8 +7992,6 @@ Total: 32 papers.
 <td nowrap><a href="https://superodometry.com/tartanimu">project</a></td>
 <td nowrap>-</td>
 <td nowrap><a href="https://huggingface.co/datasets/raphael-blanchard/TartanIMU">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate whether high-level planning can land in executable actions.</td>
 </tr>
 </tbody>
 </table>
@@ -9005,8 +8056,6 @@ Total: 32 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -9024,8 +8073,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -9041,8 +8088,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2025</td>
@@ -9058,8 +8103,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2024</td>
@@ -9075,8 +8118,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2024</td>
@@ -9092,8 +8133,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2023</td>
@@ -9109,8 +8148,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2023</td>
@@ -9126,8 +8163,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ECCV 2024</td>
@@ -9143,8 +8178,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ECCV 2024</td>
@@ -9160,8 +8193,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ECCV 2022</td>
@@ -9177,8 +8208,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2026</td>
@@ -9194,8 +8223,6 @@ Total: 32 papers.
 <td nowrap><a href="https://humanoideveryday.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/physical-superintelligence-lab/Humanoid-Everyday">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/USC-PSI-Lab/humanoid-everyday">hf</a></td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9211,8 +8238,6 @@ Total: 32 papers.
 <td nowrap><a href="https://opendrivelab.com/WholeBodyVLA/">project</a></td>
 <td nowrap><a href="https://github.com/OpenDriveLab/WholebodyVLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9228,8 +8253,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9245,8 +8268,6 @@ Total: 32 papers.
 <td nowrap><a href="https://simonlinsx.github.io/HWC_Loco/">project</a></td>
 <td nowrap><a href="https://github.com/EDEM-AI/HWC_Loco">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9262,8 +8283,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9279,8 +8298,6 @@ Total: 32 papers.
 <td nowrap><a href="https://lecar-lab.github.io/BFM-Zero/">project</a></td>
 <td nowrap><a href="https://github.com/LeCAR-Lab/BFM-Zero">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9296,8 +8313,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/gentlefress/RoboGhost">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9313,8 +8328,6 @@ Total: 32 papers.
 <td nowrap><a href="https://lift-humanoid.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/bigai-ai/LIFT-humanoid">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9330,8 +8343,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -9347,8 +8358,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Robot-Learning, Humanoid-RL, EAI-Safety, WAM</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -9364,8 +8373,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -9381,8 +8388,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/Colin-Jing/FARM">code</a></td>
 <td nowrap>HDHM data</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -9398,8 +8403,6 @@ Total: 32 papers.
 <td nowrap><a href="https://kaijwang.github.io/odyssey.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -9415,8 +8418,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -9432,8 +8433,6 @@ Total: 32 papers.
 <td nowrap><a href="https://ahc-humanoid.github.io">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -9449,8 +8448,6 @@ Total: 32 papers.
 <td nowrap><a href="https://xhugwbc.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -9466,8 +8463,6 @@ Total: 32 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -9483,8 +8478,6 @@ Total: 32 papers.
 <td nowrap><a href="https://viral-humanoid.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/NVlabs/GR00T-VisualSim2Real">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -9500,8 +8493,6 @@ Total: 32 papers.
 <td nowrap><a href="https://almi-humanoid.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/TeleHuman/ALMI-Open">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/TeleEmbodied/ALMI-X">hf</a></td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -9517,8 +8508,6 @@ Total: 32 papers.
 <td nowrap><a href="https://beingbeyond.github.io/BumbleBee/">project</a></td>
 <td nowrap><a href="https://github.com/BeingBeyond/BumbleBee">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -9534,8 +8523,6 @@ Total: 32 papers.
 <td nowrap><a href="https://kungfubot.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/TeleHuman/PBHC">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -9551,8 +8538,6 @@ Total: 32 papers.
 <td nowrap><a href="https://lego-h-humanoidrobothiking.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 </tbody>
 </table>
@@ -9577,8 +8562,6 @@ Total: 13 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -9596,8 +8579,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Awesome-VLA</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2025</td>
@@ -9613,8 +8594,6 @@ Total: 13 papers.
 <td nowrap><a href="https://dexmimicgen.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/NVlabs/dexmimicgen/">code</a></td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9630,8 +8609,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9647,8 +8624,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -9664,8 +8639,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -9681,8 +8654,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -9698,8 +8669,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -9715,8 +8684,6 @@ Total: 13 papers.
 <td nowrap><a href="https://robotwin-platform.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/robotwin-Platform/RoboTwin">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/TianxingChen/RoboTwin2.0">hf</a></td>
-<td nowrap>EAI-Guide, EAI-VLA-VLN, Efficient-VLA, WAM, RL-VLA</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -9732,8 +8699,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -9749,8 +8714,6 @@ Total: 13 papers.
 <td nowrap><a href="https://anybimanual.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/TengBoYu01/AnyBimanual">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -9766,8 +8729,6 @@ Total: 13 papers.
 <td nowrap><a href="https://dexh2r.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/4DVLab/DexH2R">code</a></td>
 <td nowrap>DexH2R benchmark</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -9783,8 +8744,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -9800,8 +8759,6 @@ Total: 13 papers.
 <td nowrap><a href="https://mobileh2r.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 </tbody>
 </table>
@@ -9826,8 +8783,6 @@ Total: 31 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -9845,8 +8800,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2024</td>
@@ -9862,8 +8815,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -9879,8 +8830,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2026</td>
@@ -9896,8 +8845,6 @@ Total: 31 papers.
 <td nowrap><a href="https://soham2560.github.io/no-contact-no-worries/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9913,8 +8860,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/BeingBeyond/DemoGrasp">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9930,8 +8875,6 @@ Total: 31 papers.
 <td nowrap><a href="https://meowuu7.github.io/DexNDM/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9947,8 +8890,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/apple/ml-egodex">code</a></td>
 <td nowrap>EgoDex dataset/benchmark</td>
-<td nowrap>Humanoid-RL, WAM</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9964,8 +8905,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9981,8 +8920,6 @@ Total: 31 papers.
 <td nowrap><a href="https://lego-grasp.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -9998,8 +8935,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10015,8 +8950,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10032,8 +8965,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10049,8 +8980,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Guide, HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, Robot-Learning, Humanoid-RL, EAI-Safety, WAM, RL-VLA</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10066,8 +8995,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10083,8 +9010,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10100,8 +9025,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10117,8 +9040,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10134,8 +9055,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Awesome-VLA, Humanoid-RL, WAM</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10151,8 +9070,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10168,8 +9085,6 @@ Total: 31 papers.
 <td nowrap><a href="https://rgbench.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/hwk0809/RGBench">code</a></td>
 <td nowrap><a href="https://rgbench.github.io/">benchmarks</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10185,8 +9100,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10202,8 +9115,6 @@ Total: 31 papers.
 <td nowrap><a href="https://dexgraspvla.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/Psi-Robot/DexGraspVLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Awesome-VLA</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10219,8 +9130,6 @@ Total: 31 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -10236,8 +9145,6 @@ Total: 31 papers.
 <td nowrap><a href="https://unidex-ai.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/unidex-ai/UniDex">code</a></td>
 <td nowrap><a href="https://huggingface.co/UniDex-ai/UniDex">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10253,8 +9160,6 @@ Total: 31 papers.
 <td nowrap><a href="https://cmtdiffusion.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/Yiyao-Ma/cmtdiffusion">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10270,8 +9175,6 @@ Total: 31 papers.
 <td nowrap><a href="https://grasp2grasp.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/n3il666/grasp2grasp">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10287,8 +9190,6 @@ Total: 31 papers.
 <td nowrap><a href="https://sites.google.com/view/dexterous-vlm-scaffolding">project</a></td>
 <td nowrap><a href="https://github.com/vdebakker/vlm-scaffolding">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10304,8 +9205,6 @@ Total: 31 papers.
 <td nowrap><a href="https://wayrise.github.io/DexGarmentLab/">project</a></td>
 <td nowrap><a href="https://github.com/wayrise/DexGarmentLab">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/wayrise/DexGarmentLab">hf</a></td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -10321,8 +9220,6 @@ Total: 31 papers.
 <td nowrap><a href="https://dexhand.github.io/UniGraspTransformer/">project</a></td>
 <td nowrap><a href="https://github.com/microsoft/UniGraspTransformer">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -10338,8 +9235,6 @@ Total: 31 papers.
 <td nowrap><a href="https://dexgraspanything.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/4DVLab/DexGrasp-Anything">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/GaussionZhong/DexGrasp-Anything">hf</a></td>
-<td nowrap>HCP-Survey, EAI-VLA-VLN</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -10355,8 +9250,6 @@ Total: 31 papers.
 <td nowrap><a href="https://sh8.io/#/zerograsp">project</a></td>
 <td nowrap><a href="https://github.com/sh8/ZeroGrasp">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 </tbody>
 </table>
@@ -10381,8 +9274,6 @@ Total: 13 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -10400,8 +9291,6 @@ Total: 13 papers.
 <td nowrap><a href="https://peilin-666.github.io/projects/DexMove/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10417,8 +9306,6 @@ Total: 13 papers.
 <td nowrap><a href="https://gewu-lab.github.io/AnyTouch2/">project</a></td>
 <td nowrap><a href="https://github.com/GeWu-Lab/AnyTouch2">code</a></td>
 <td nowrap><a href="https://huggingface.co/collections/BAAI/touchd">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10434,8 +9321,6 @@ Total: 13 papers.
 <td nowrap><a href="https://timschneider42.github.io/apple">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI, WAM</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10451,8 +9336,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10468,8 +9351,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10485,8 +9366,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -10502,8 +9381,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -10519,8 +9396,6 @@ Total: 13 papers.
 <td nowrap><a href="https://icml.cc/virtual/2026/poster/65669">project</a></td>
 <td nowrap><a href="https://github.com/NathanWu7/Tabero">code</a></td>
 <td nowrap>Tabero benchmark/model suite</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10536,8 +9411,6 @@ Total: 13 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/IvanXie416/VTV-LLM">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/Ivan416/VBTS_video">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10553,8 +9426,6 @@ Total: 13 papers.
 <td nowrap><a href="https://elle-miller.github.io/tactile_rl/">project</a></td>
 <td nowrap><a href="https://github.com/elle-miller/roto">code</a></td>
 <td nowrap>RoTO benchmark</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10570,8 +9441,6 @@ Total: 13 papers.
 <td nowrap><a href="https://taccel-simulator.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/Taccel-Simulator/Taccel">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10587,8 +9456,6 @@ Total: 13 papers.
 <td nowrap><a href="https://zoharri.github.io/artificial-palpation/">project</a></td>
 <td nowrap><a href="https://github.com/zoharri/ArtificialPalpation">code</a></td>
 <td nowrap><a href="https://zenodo.org/records/17608184">data</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10604,8 +9471,6 @@ Total: 13 papers.
 <td nowrap><a href="https://binghao-huang.github.io/touch_in_the_wild/">project</a></td>
 <td nowrap><a href="https://github.com/YolandaXinyueZhu/touch_in_the_wild">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/binghaohuang-robot/touch_in_the_wild-dataset">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to observe how embodiment differences change control and data requirements.</td>
 </tr>
 </tbody>
 </table>
@@ -10675,8 +9540,6 @@ Total: 21 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -10694,8 +9557,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>EMNLP 2025</td>
@@ -10711,8 +9572,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2024</td>
@@ -10728,8 +9587,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/yueyang130/DeeR-VLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2024</td>
@@ -10745,8 +9602,6 @@ Total: 21 papers.
 <td nowrap><a href="https://sites.google.com/view/robomamba-web">project</a></td>
 <td nowrap><a href="https://github.com/lmzpai/roboMamba">code</a></td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA, Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10762,8 +9617,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10779,8 +9632,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10796,8 +9647,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10813,8 +9662,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -10830,8 +9677,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, EAI-Safety, RL-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10847,8 +9692,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10864,8 +9707,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10881,8 +9722,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/JiuTian-VL/SemanticVLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10898,8 +9737,6 @@ Total: 21 papers.
 <td nowrap><a href="https://vla-adapter.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/OpenHelix-Team/VLA-Adapter">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Awesome-VLA, Efficient-VLA, RL-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -10915,8 +9752,6 @@ Total: 21 papers.
 <td nowrap><a href="https://sites.google.com/view/mole-vla">project</a></td>
 <td nowrap><a href="https://github.com/RoyZry98/MoLe-VLA-Pytorch/">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -10932,8 +9767,6 @@ Total: 21 papers.
 <td nowrap><a href="https://quantvla.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/AIoT-MLSys-Lab/QuantVLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10949,8 +9782,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10966,8 +9797,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -10983,8 +9812,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11000,8 +9827,6 @@ Total: 21 papers.
 <td nowrap><a href="https://vla-cache.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/siyuhsu/vla-cache">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11017,8 +9842,6 @@ Total: 21 papers.
 <td nowrap><a href="https://xiaoxiao0406.github.io/vqvla.github.io">project</a> / <a href="https://xiaoxiao0406.github.io/vqvla.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/xiaoxiao0406/VQ-VLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11034,8 +9857,6 @@ Total: 21 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 </tbody>
 </table>
@@ -11060,8 +9881,6 @@ Total: 6 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -11079,8 +9898,6 @@ Total: 6 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11096,8 +9913,6 @@ Total: 6 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11113,8 +9928,6 @@ Total: 6 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Efficient-VLA, Humanoid-RL, EAI-Safety, WAM</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11130,8 +9943,6 @@ Total: 6 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, Awesome-EAI, EAI-VLA-VLN, Efficient-VLA, Humanoid-RL, EAI-Safety, WAM</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11147,8 +9958,6 @@ Total: 6 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11164,8 +9973,6 @@ Total: 6 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 </tbody>
 </table>
@@ -11190,8 +9997,6 @@ Total: 39 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -11209,8 +10014,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -11226,8 +10029,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2024</td>
@@ -11243,8 +10044,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2022</td>
@@ -11260,8 +10059,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2024</td>
@@ -11277,8 +10074,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ECCV 2024</td>
@@ -11294,8 +10089,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2026</td>
@@ -11311,8 +10104,6 @@ Total: 39 papers.
 <td nowrap><a href="https://terminators2025.github.io/RealMirror.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/terminators2025/RealMirror">code</a></td>
 <td nowrap><a href="https://huggingface.co/zte-terminators/realmirror-model-ckpt">hf</a></td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2025</td>
@@ -11328,8 +10119,6 @@ Total: 39 papers.
 <td nowrap><a href="https://lambdabenchmark.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/h2r/LAMBDA">code</a></td>
 <td nowrap><a href="https://github.com/h2r/LAMBDA">data</a></td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICRA 2025</td>
@@ -11345,8 +10134,6 @@ Total: 39 papers.
 <td nowrap><a href="https://github.com/BAAI-DCAI/SpatialBot">project</a></td>
 <td nowrap><a href="https://github.com/BAAI-DCAI/SpatialBot">code</a></td>
 <td nowrap><a href="https://github.com/BAAI-DCAI/SpatialBot">data</a></td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11362,8 +10149,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11379,8 +10164,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11396,8 +10179,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11413,8 +10194,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11430,8 +10209,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -11447,8 +10224,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Humanoid-RL</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -11464,8 +10239,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -11481,8 +10254,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -11498,8 +10269,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>AAAI 2026</td>
@@ -11515,8 +10284,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -11532,8 +10299,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-EAI</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -11549,8 +10314,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -11566,8 +10329,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -11583,8 +10344,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11600,8 +10359,6 @@ Total: 39 papers.
 <td nowrap><a href="https://bridgevla.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/BridgeVLA/BridgeVLA">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11617,8 +10374,6 @@ Total: 39 papers.
 <td nowrap><a href="https://umass-embodied-agi.github.io/RobotSmith/">project</a></td>
 <td nowrap><a href="https://github.com/UMass-Embodied-AGI/RobotSmith">code</a></td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11634,8 +10389,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11651,8 +10404,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN, Efficient-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11668,8 +10419,6 @@ Total: 39 papers.
 <td nowrap><a href="https://robocerebra.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/qiuboxiang/RoboCerebra">code</a> / <a href="https://github.com/buaa-colalab/RoboCerebra">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/qiukingballball/RoboCerebra">hf</a> / <a href="https://huggingface.co/datasets/qiukingballball/RoboCerebraBench">hf</a></td>
-<td nowrap>EAI-VLA-VLN, WAM</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11685,8 +10434,6 @@ Total: 39 papers.
 <td nowrap><a href="https://suturebot.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/SutureBot/SutureBot/tree/ACT">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/jchen396/SutureBot">hf</a></td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -11702,8 +10449,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11719,8 +10464,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11736,8 +10479,6 @@ Total: 39 papers.
 <td nowrap><a href="https://iranqin.github.io/robofactory/">project</a></td>
 <td nowrap><a href="https://github.com/MARS-EAI/RoboFactory">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/FACEONG/RoboFactory_Dataset">hf</a></td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11753,8 +10494,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11770,8 +10509,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/RoboUniview/RoboMM">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/liufanfanlff/RoboData">hf</a></td>
-<td nowrap>EAI-VLA-VLN, WAM</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11787,8 +10524,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>EXPRESS-Bench</td>
-<td nowrap>HCP-Survey</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11804,8 +10539,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -11821,8 +10554,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2025</td>
@@ -11838,8 +10569,6 @@ Total: 39 papers.
 <td nowrap><a href="https://embodiedbench.github.io/">project</a></td>
 <td nowrap><a href="https://github.com/EmbodiedBench/EmbodiedBench">code</a></td>
 <td nowrap>-</td>
-<td nowrap>HCP-Survey, EAI-Safety</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -11855,8 +10584,6 @@ Total: 39 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 </tbody>
 </table>
@@ -11881,8 +10608,6 @@ Total: 17 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -11900,8 +10625,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11917,8 +10640,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11934,8 +10655,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11951,8 +10670,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Guide, Octoday, HCP-Survey, EAI-VLA-VLN, Humanoid-RL</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11968,8 +10685,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -11985,8 +10700,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -12002,8 +10715,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -12019,8 +10730,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Humanoid-RL</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -12036,8 +10745,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -12053,8 +10760,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -12070,8 +10775,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -12087,8 +10790,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -12104,8 +10805,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -12121,8 +10820,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -12138,8 +10835,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/SonoGym/SonoGym">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICCV 2025</td>
@@ -12155,8 +10850,6 @@ Total: 17 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-VLA-VLN</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2025</td>
@@ -12172,8 +10865,6 @@ Total: 17 papers.
 <td nowrap><a href="https://robotwin-benchmark.github.io/early-version/">project</a></td>
 <td nowrap><a href="https://github.com/RoboTwin-Platform/RoboTwin">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/TianxingChen/RoboTwin">hf</a></td>
-<td nowrap>EAI-Guide, EAI-VLA-VLN, Efficient-VLA, WAM, RL-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 </tbody>
 </table>
@@ -12198,8 +10889,6 @@ Total: 12 papers.
 <th nowrap>Project</th>
 <th nowrap>Code</th>
 <th nowrap>Data/Bench</th>
-<th nowrap>Source</th>
-<th nowrap>Survey Note</th>
 </tr>
 </thead>
 <tbody>
@@ -12217,8 +10906,6 @@ Total: 12 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2022</td>
@@ -12234,8 +10921,6 @@ Total: 12 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>EAI-Safety</td>
-<td nowrap>Used to compare source-verified CCF A/B work against the corresponding embodied-AI survey direction.</td>
 </tr>
 <tr>
 <td nowrap>IROS 2025</td>
@@ -12251,8 +10936,6 @@ Total: 12 papers.
 <td nowrap><a href="https://utiasdsl.github.io/semantic-manipulation/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>ICRA/IROS</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -12268,8 +10951,6 @@ Total: 12 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICLR 2026</td>
@@ -12285,8 +10966,6 @@ Total: 12 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -12302,8 +10981,6 @@ Total: 12 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -12319,8 +10996,6 @@ Total: 12 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>Awesome-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -12336,8 +11011,6 @@ Total: 12 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>ICML 2026</td>
@@ -12353,8 +11026,6 @@ Total: 12 papers.
 <td nowrap>-</td>
 <td nowrap>-</td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>CVPR 2026</td>
@@ -12370,8 +11041,6 @@ Total: 12 papers.
 <td nowrap><a href="https://sylvestf.github.io/LIBERO-plus/">project</a></td>
 <td nowrap><a href="https://github.com/sylvestf/LIBERO-plus">code</a></td>
 <td nowrap><a href="https://huggingface.co/datasets/Sylvest/LIBERO-plus">hf</a></td>
-<td nowrap>EAI-Safety, WAM</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -12387,8 +11056,6 @@ Total: 12 papers.
 <td nowrap>-</td>
 <td nowrap><a href="https://github.com/arnavkj1995/SAILOR">code</a></td>
 <td nowrap>-</td>
-<td nowrap>-</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 <tr>
 <td nowrap>NeurIPS 2025</td>
@@ -12404,8 +11071,6 @@ Total: 12 papers.
 <td nowrap><a href="https://pacbench.github.io/">project</a></td>
 <td nowrap>-</td>
 <td nowrap>30k annotations / 673 images / 100 scenarios / 120 sim constraints</td>
-<td nowrap>RL-VLA</td>
-<td nowrap>Used to evaluate deployment efficiency, data coverage, and benchmark credibility.</td>
 </tr>
 </tbody>
 </table>
@@ -12502,7 +11167,7 @@ The following entries come from archived README snapshots and are not merged int
 
 ## Data Sources
 
-GitHub source repository metadata and README snapshots are recorded in [`sources/github/repos.json`](sources/github/repos.json); the `Source` column in the tables uses the `id` values from that file.
+GitHub source repository metadata and README snapshots are recorded in [`sources/github/repos.json`](sources/github/repos.json); historical source IDs are kept there for traceability.
 
 <table>
 <thead>
